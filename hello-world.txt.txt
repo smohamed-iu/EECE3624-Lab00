@@ -1,1 +1,2 @@
 Hello world (client side).
+Hello world (Server side).
